@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "85d2fbb9433080e1cdbd46b7",
+  "owner": "bpqdvaagak",
+  "repo": "page-fa5a55287da7e198093b8278",
+  "title": "MorckVPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fa5a55287da7e198093b8278",
+      "a": "MorckVPN",
+      "b": "机场官网线路发布页",
+      "entity": "MorckVPN",
+      "brand": "MorckVPN",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a57239158420d3b296c6f345a5d9ca40300d419343453503ad2faab31cb80bfb",
+      "content": {
+        "primary_entity": "MorckVPN",
+        "keyword1": "MorckVPN",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，从订阅导入到线路选择一次完成，电脑、手机与路由器各取所需。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择合适套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置 MorckVPN",
+          "AI_DESCRIPTION": "，MorckVPN 提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，在线设备从 3 台到 20 台，覆盖普通线路、IPLC 专线与 VIP 高带宽节点池。电脑端可选 Clash Verge、v2rayN、Shadowrocket 等常见客户端，手机端可用 Shadowrocket、Stash、V2RayNG 导入订阅，路由器可按 OpenWrt 文档配置。月付与年付两种周期灵活切换，按年付约为十个月价格。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备，适合手机与笔记本轻度使用；旗舰版每月 300GB、5 台设备并含 IPLC 专线；团队版每月 1000GB、20 台设备，适合多人共享或小型团队。",
+          "AI_FAQ_ANSWER_2": "在客户端订阅管理中选择从文件或链接导入，粘贴购买后获得的订阅地址，更新节点列表即可连接。不同客户端菜单名称略有差异，可对照对应文档操作。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。若设备较多，选择团队版可避免频繁切换登录。",
+          "AI_FAQ_ANSWER_4": "可以在客户端中切换普通节点、IPLC 专线或 VIP 节点池，根据延迟和用途自行选择。游戏或实时通话优先选择 IPLC 专线节点，普通浏览使用默认线路即可。",
+          "AI_FAQ_ANSWER_5": "月付适合短期试用，灵活按月续费；年付折算后约为十个月价格，长期使用更划算。若不确定用量，可以先选基础版月付，后续再升级。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何在客户端导入 MorckVPN 订阅？",
+          "AI_FAQ_QUESTION_3": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_4": "不同线路节点该如何选择？",
+          "AI_FAQ_QUESTION_5": "月付和年付选哪个更合适？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数量到线路类型，三个方面帮你快速定位适合自己的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月实际用量选择，避免浪费或超额。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台设备分别对应基础版、旗舰版和团队版，多人共享直接看团队版。",
+          "AI_FEATURE_TITLE_2": "看在线设备数",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线与流媒体解锁，团队版提供 VIP 高带宽节点，按用途区分即可。",
+          "AI_FEATURE_TITLE_3": "看线路与权益",
+          "AI_GUIDE_INTRO": "只需三步：确认套餐、核对设备数量，再按客户端文档导入订阅开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "MorckVPN 提供基础版、旗舰版与团队版三档订阅，月流量 100GB 至 1000GB，支持 3 至 20 台设备同时在线，覆盖普通线路、IPLC 专线与 VIP 高带宽节点，适配常见桌面与移动客户端。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线与 VIP 节点",
+          "AI_PLANS_INTRO": "基础版 15 元每月 100GB 支持 3 台设备，旗舰版 35 元每月 300GB 支持 5 台设备并含 IPLC 专线，团队版 85 元每月 1000GB 支持 20 台设备。年付折算约为十个月价格。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和在线设备数量，在基础版、旗舰版、团队版中确定一档订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "核对自己电脑、手机或路由器的系统版本，查看客户端文档中的适配要求后再下载安装。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅地址并更新节点，按文档选择线路后即可开始使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "MorckVPN 订阅配置"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bkelp.cn",
+    "host": "bkelp.cn"
+  },
+  "file_hashes": {
+    "index.html": "ac339ce5fd37811a3813197fd96f22ee83bee0c034feb994814c22499db7cad4",
+    "sitemap.xml": "3b86606352e50e852ee4c1e6bc9d7446570561362750ce1587ac7312acbc80e0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "533cb1d7fe834309c152be4f4893c4db9b3bb0c8327dc774a98571470e856c1a",
+    "robots.txt": "34a916f37aa44cec9bb9d260c730e1107736dac481aedf8151e74c3114d62195",
+    "188b090eb5300242afe0833a41714189.txt": "30e5304fc6b6dd566b8aa6d483e6134677704aa15b0569ae51bd63fdaed6ca79"
+  },
+  "revision": "bcdb1c74c85293bfd968d07c6c8841cce0a7b3731fd9ed74bad9f346ed1c4c9f"
+}
